@@ -1,5 +1,5 @@
 {
-    "name": "iatstuti/laravel-cascade-soft-delete",
+    "name": "iatstut/laravel-cascade-soft-delete",
     "description": "Cascading deletes for Eloquent models that implement soft deletes",
     "type": "utility",
     "require": {
